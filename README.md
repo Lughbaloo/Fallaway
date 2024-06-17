@@ -1,2 +1,2 @@
 # Fallaway
-A Minecraft Adventure Modpack, made by The Rocketeers
+A Valheim Adventure Modpack, made by Lughbaloo and friends.
